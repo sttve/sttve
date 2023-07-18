@@ -1,5 +1,5 @@
-# 🧠 About Me
-#### Hello, My name is Steven Anderson, a Computer engineering student at the Instituto Federal Fluminense and I am also a Full-Stack Web Developer...
+
+#### Hello, I'm Computer Engineering student at the Federal University of Campos and also a Full Stack developer.
 
 ## 🔗 Links
 
