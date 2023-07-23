@@ -1,5 +1,5 @@
 
-#### Hello, I'm Computer Engineering student at the Federal University of Campos and also a Full Stack developer.
+#### Hello, I'm Computer Engineering student at the Federal University of Campos and also a Full Stack Engineer, with focus on Front-end trend technologies!
 
 ## 🔗 Links
 
