@@ -1,5 +1,5 @@
 
-#### I am a student at the Federal University of Campos and also a Full Stack Engineer, focusing on solutions for Web development!
+#### Focusing on solutions for Web development, I have been a student of System Analysis at Estacio and a Full Stack Engineer since 2020. Here on my GitHub have some projects that interest me and increase my experience with diverse software solutions. Welcome!
 
 ## 🔗 Links
 
