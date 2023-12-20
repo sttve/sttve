@@ -13,9 +13,6 @@
 
 [![Most used languages GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sttve&layout=compact&theme=swift)](https://github.com/sttve/github-readme-stats)
 
-<div
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1k0BkkbwTGZGBqrNWwuucL?utm_source=generator" width="500" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
 ## 🛠 Technologies day-to-day
 <div style="display: inline-block"><br/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
